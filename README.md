@@ -17,8 +17,12 @@
   <hr />
 </div>
 
-# PayPal-Repo-Template
-This is a sample repo to use as a template when we are creating new repos under the PayPal org.
+# PayPal Access Token Sample
+
+This code sample demonstrates how to use either the Axios or node-fetch libraries to retrieve the API Access Token needed to authenticate requests to the PayPal REST API.
+
+A much more detailed explanation of this approach can be found here in our REST API documentation:
+https://developer.paypal.com/api/rest/
 
 ## PayPal Developer Community
 
