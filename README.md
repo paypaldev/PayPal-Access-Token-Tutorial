@@ -18,7 +18,7 @@
   <hr />
 </div>
 
-# PayPal Access Token Sample
+# PayPal Access Token Tutorial
 
 This is the sample code from the [YouTube video How to Retrieve an API Access Token (Node.js)](https://www.youtube.com/watch?v=HOkkbGSxmp4) where Jamund Ferguson demonstrates how to use either the Axios or node-fetch libraries to retrieve the API Access Token needed to authenticate requests to the PayPal REST API.
 
@@ -28,7 +28,7 @@ https://developer.paypal.com/api/rest/
 ## Get Started
 
 1. Clone the repo. See [About remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories) for more info.
-2. Open the `PayPal-Access-Token-Sample` directory in your code editor
+2. Open the `PayPal-Access-Token-Tutorial` directory in your code editor
 3. Install dependencies
 
    ```
